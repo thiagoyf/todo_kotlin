@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736029261855",
+    "firebase_url": "https://todo-kotlin-573b6.firebaseio.com",
+    "project_id": "todo-kotlin-573b6",
+    "storage_bucket": "todo-kotlin-573b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736029261855:android:3fcdad90775d0b61b3552a",
+        "android_client_info": {
+          "package_name": "br.com.thiagoyf.todokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736029261855-si5rag2v3a813okonvfbeushgguqa2pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQNEg83mKr5y7OG1_QP1MT-6v0-PTyLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736029261855-si5rag2v3a813okonvfbeushgguqa2pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
